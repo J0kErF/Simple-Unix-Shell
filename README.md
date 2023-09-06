@@ -21,7 +21,7 @@ A simple shell written in C.
 
 Enter the commands you want to run.
 ### History
-The shell maintains a history of all the commands that have been run. You can access the history list by typing history.
+The shell maintains a history of all the commands that have been run. You can access the history list by typing `history`.
 
 ### Background execution
 You can run a command in the background by appending an & to the end of the command. For example, the following command will run the ls command in the background:
