@@ -12,12 +12,12 @@ A simple shell written in C.
 1. Clone the repository.
 2. Compile the code with the following command:
 
-`gcc my_shell.c -o my_shell`
+  `gcc my_shell.c -o my_shell`
 
 
 3. Run the shell with the following command:
 
-`./my_shell`
+  `./my_shell`
 
 Enter the commands you want to run.
 ### History
@@ -25,7 +25,7 @@ The shell maintains a history of all the commands that have been run. You can ac
 
 ### Background execution
 You can run a command in the background by appending an & to the end of the command. For example, the following command will run the ls command in the background:
-`ls &`
+  `ls &`
 
 To view the list of background processes, you can type `jobs`.
 
