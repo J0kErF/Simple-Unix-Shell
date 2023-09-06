@@ -12,7 +12,7 @@ A simple shell written in C.
 1. Clone the repository.
 2. Compile the code with the following command:
 
-gcc my_shell.c -o my_shell
+`gcc my_shell.c -o my_shell`
 
 
 3. Run the shell with the following command:
